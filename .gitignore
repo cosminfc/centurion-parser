@@ -1,0 +1,11 @@
+# MAC OS
+.DS_Store
+
+.idea
+.vscode/
+coverage/
+
+node_modules
+
+package-lock.json
+*.sock
