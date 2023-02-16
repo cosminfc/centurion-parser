@@ -1,6 +1,6 @@
 {
   "name": "ctn-parser",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple typescript implementation of Earley's parsing algorithm",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
