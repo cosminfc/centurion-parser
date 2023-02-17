@@ -1,3 +1,1 @@
-export function greeting(): string {
-    return "Hello World";
-}
+export { Rule } from './Rule'
